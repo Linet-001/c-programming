@@ -1,6 +1,6 @@
 # * Its a project on creating a simple calculator
 
-* -For operation
+* -For operation;
 
 * addition
 
